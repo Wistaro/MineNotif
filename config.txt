@@ -1,0 +1,5 @@
+C:\Users\WilliamR\AppData\Roaming\.paladium/minecraft\logs
+Wistaro
+modo
+notifs=true
+displayLogs=true
